@@ -1,0 +1,49 @@
+Site,Phase_Level,Context,Lab,BP Date,BP Error,Start_BC,End_BC,Reference
+Hormangan,Trench 3 - 3008,3008,PLD-32549,7209,25,6110,6011,Khanipour
+Hormangan,Trench 3-3006,3006,PLD-32550,7202,25,6106,6007,Khanipour
+Hormangan,Trench 1,1038,PLD-32545,7420,25,6373,6236,
+Hormangan,Trench 1,1015,PLD-32546,7210,25,6108,6011,
+Hormangan,Trench 2,2034,PLD-32547,7255,25,6212,6060,
+Hormangan,Trench 2,2028,PLD-32548,7245,25,6211,6051,
+Hormangan,Trench 1,1020,PLD-32551,6965,25,5966,5956,
+Tal-i Jari B,Level 1,"AIII, Layer 1-2",AA-56413,6867,50,5977,5721,"Nishiaki, 2010"
+Tal-i Jari B,Level 1,"C, Layer 2",AA-56412,6939,72,5979,5730,"Nishiaki, 2010"
+Tal-i Jari B,Level 4,"WT, Layer 2, R1-fill",AA-56415,7127,69,6076,5915,"Nishiaki, 2010"
+Tal-i Jari B,Level 4,"AIII, Layer 5, R7-fill",AA-56411,7259,74,6096,5917,"Nishiaki, 2010"
+Tal-i Jari B,Level 8,"WT, Layer 6, R5a",AA-56410,7173,71,6177,6008,"Nishiaki, 2010"
+Tal-i Jari B,+50cm above virgin soil,Occupational debris,AA65264,7297,45,6235,6063,Miki
+Tal-i Mushki,Level 1,MS-L12-1b (Room 8),TKa-13821,7270,150,6277,6082,"Nishiaki, 2010"
+Tal-i Mushki,Level 2,MS-L12-2b1,TKa-13820,7330,35,6261,6198,"Nishiaki, 2010"
+Tal-i Mushki,Level 2,MS-L12-2a1/2/3,TKa-13819,7370,35,6263,6211,"Nishiaki, 2010"
+Tal-i Mushki,Level 2,MS-L11-2al,TKa-13817,7425,35,6271,6217,"Nishiaki, 2010"
+Tal-i Mushki,Level 3,MS-K11-3a,AA-56409,7347,71,6331,6241,"Nishiaki, 2010"
+Tal-i Mushki,Level 3,MS-K11-3,TKa-13814,7410,35,6331,6241,"Nishiaki, 2010"
+Tal-i Mushki,Level 3,MS-K12-3a,TKa-13816,7420,40,6331,6241,"Nishiaki, 2010"
+Tal-i Mushki,Level 3,MS-K11-3,TKa-13815,7455,35,6332,6242,"Nishiaki, 2010"
+Tal-i Mushki,Level 4,MS-L11-4,TKa-13818,7370,30,6377,6278,"Nishiaki, 2010"
+Tal-i Mushki,22,Occupational debris,AA63493,7707,76,6235,6063,Miki
+Tal-i Mushki,Level 3a,,AA56409,7347,71,6464,5981,Miki
+Tepe Rahmat Abad,PPN IV,A-Loc. 53 (Level IV),KIA-33174,7945,,7040,6690,Bernbeck 2008
+Tepe Rahmat Abad,PPN VI,A-Loc. 61 (Level VI),KIA-33173,8023,45,7074,6776,"Nishiaki et al., 2013"
+Tepe Rahmat Abad,PPN VII,A-Loc. 62 (Level VII),UZ-5331,7925,75,7046,6646,"Nishiaki et al., 2013"
+Tepe Rahmat Abad,PPN,G-Loc. 7032,TKa-15313,7970,45,7047,6699,"Nishiaki et al., 2013"
+Tepe Rahmat Abad,PPN,G-Loc. 7033,TKa-15314,7810,41,6751,6508,"Nishiaki et al., 2013"
+Tepe Rahmat Abad,,7029,TKa-15311,7245,45,6217,6028,Azizi Kharanagi
+Tol-e Bashi,I,Unit A Loc. 74,AA56341,6028,44,5040,4780,Pollock
+Tol-e Bashi,I,Unit A Loc. 49,AA56338,7037,46,6010,5790,Pollock
+Tol-e Bashi,III,Unit B Loc. 24,AA56342,6702,39,5720,5530,Pollock
+Tol-e Bashi,IV,Unit D Loc. 17,AA56343,6977,43,5980,5730,Pollock
+Tol-e Bashi,IV,Unit D Loc. 13,AA56353,7082,39,6020,5840,Pollock
+Tol-e Bashi,IV,Unit C Loc. 40,AA56340,7123,49,6160,5840,Pollock
+Tol-e Bashi,IV,Unit D Loc. 11,AA56355,7157,42,6160,5910,Pollock
+Tol-e Bashi,V,Unit C Loc. 71,AA56339,6949,47,5980,5720,Pollock
+Tol-e Bashi,V,Unit C Loc. 54,AA56354,7132,40,6160,5890,Pollock
+Tol-e Bashi,V,Unit C Loc. 61,AA56351,7283,43,6230,6020,Pollock
+Tol-e Bashi,VI,Unit C Loc. 68,AA56352,5830,42,4800,4550,Pollock
+Tol-e Bashi,VI,Unit C Loc. 70,AA58025,5837,40,4800,4550,Pollock
+Tol-e Nurabad,Phase A23,Locus 147,WK13992,6938,54,5980,5710,"Weeks, 2006"
+Tol-e Nurabad,Phase A24b,Locus 163,WK13991,6952,61,5990,5720,"Weeks, 2006"
+Tol-e Nurabad,Phase A25,Locus 167,OZ1128,6950,50,5980,5940,"Weeks, 2006"
+Tol-e Nurabad,Phase A26,Locus 170,WK13990,6977,56,5990,5940,"Weeks, 2006"
+Tol-e Nurabad,Phase A27,Locus 174,WK13989,6488,54,5610,5590,"Weeks, 2006"
+Tol-e Nurabad,Phase A20,Locus 123,WK13993,6810,56,5800,5620,"Weeks, 2006"
