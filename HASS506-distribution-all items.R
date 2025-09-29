@@ -1,7 +1,3 @@
-
-Here is the complete standalone R script, updated to use "Type" instead of "WareType", handling multiple "Type" columns, and titling each plot as "Distribution of <Type>":
-  
-  r
 library(raster)
 library(sf)
 library(ggplot2)
