@@ -3,7 +3,7 @@ library(stats)
 library(ggplot2)
 library(ggdendro)
 
-# Assuming binary_matrix is your binary site-feature matrix
+# Assuming binary_matrix
 
 # Calculate Jaccard distance matrix
 jaccard_dist <- vegdist(binary_matrix, method = "jaccard")
@@ -33,7 +33,7 @@ plot_dendrogram <- function(hc, title) {
   ggdend + ggtitle(title) + theme_minimal() + theme(axis.text.x = element_text(angle = 90))
 }
 
-# Print dendrograms (adjust plotting layout as needed)
+# Print dendrograms
 plot_dendrogram(hc_complete, "Complete Linkage")
 plot_dendrogram(hc_average, "Average Linkage")
 plot_dendrogram(hc_ward, "Ward's Method")
