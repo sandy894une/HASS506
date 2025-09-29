@@ -10,12 +10,12 @@ library(rnaturalearth)
 relief <- raster("NE2_HR_LC_SR_W.tif")
 
 # Load world and extract Iran polygon
-world <- st_read(system.file("shape/nc.shp", package="sf"), quiet = TRUE)  # example; replace with rnaturalearth
+world <- st_read(system.file("shape/nc.shp", package="sf"), quiet = TRUE)  
 
 world <- rnaturalearth::ne_countries(scale = "medium", returnclass = "sf")
 iran <- world %>% filter(name == "Iran")
 
-# Crop relief to Iran bounding box plus some buffer
+# Crop relief to Iran bounding box
 relief_cropped <- crop(relief, extent(iran) + 1)
 #zoom_extent <- extent(51.3, 53.7, 29, 31)
 #relief_cropped <- crop(relief, zoom_extent)
@@ -25,7 +25,7 @@ relief_cropped <- crop(relief, extent(iran) + 1)
 relief_df <- as.data.frame(rasterToPoints(relief_cropped))
 colnames(relief_df) <- c("x", "y", "value")
 
-# Load your nodes data and prepare site_display
+# Load nodes data and prepare site_display
 nodes <- read_csv("nodes.csv") %>% 
   mutate(site_display = paste(Site_Code, Site_Name, sep = " - "))
 
